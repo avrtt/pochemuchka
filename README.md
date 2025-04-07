@@ -11,7 +11,7 @@ This is an all-in-one library built as part of my other SaaS project. It provide
 
 The system can help to simplify the development and testing of prompt-based interactions with LLMs. By combining real-time monitoring, dynamic caching and integration across multiple models, it offers tools for understanding the capabilities of AI-driven solutions. You can refine your prompt design or automatically adapt learning systems to evolving contexts.
 
-> ![TIP] 
+> [!TIP] 
 > Check out some simple usage examples in **[examples/getting_started.ipynb](https://github.com/avrtt/pochemuchka/blob/main/examples/getting_started.ipynb)**
 
 Some features:
