@@ -1,0 +1,11 @@
+### Build/test/lint commands
+- Install deps: `poetry install`
+- Run all tests: `poetry run pytest --cache-clear -vv tests`
+- Run specific test: `poetry run pytest tests/path/to/test_file.py::test_function_name -v`
+- Run with coverage: `make test`
+- Format code: `make format` (runs black, isort, flake8, mypy)
+- Individual formatting:
+  - Black: `make make-black`
+  - isort: `make make-isort`
+  - Flake8: `make flake8`
+  - Autopep8: `make autopep8`
