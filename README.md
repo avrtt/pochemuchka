@@ -1,5 +1,7 @@
-<p style="text-align: left">
-    ver. 1.1.12&nbsp; •&nbsp; <u>Documentation</u> <b>(WIP)</b>: <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/en.md">🇺🇸 EN</a></b> | <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/ru.md">🇷🇺 RU</a></b>
+<p>
+    <span style="text-align: left">
+      ver. 1.1.12&nbsp; •&nbsp; <u>Documentation</u> <b>(WIP)</b>: <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/en.md">🇺🇸 EN</a></b> | <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/ru.md">🇷🇺 RU</a></b>  
+    </span>
     <span style="float: right">
         <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/commands.md">Commands</a></b>&nbsp; •&nbsp; <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/styles.md">Styles</a></b>&nbsp; •&nbsp; <b><a href="https://github.com/avrtt/pochemuchka/blob/main/documentation/conventions.md">Conventions</a></b>
     </span>
